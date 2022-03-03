@@ -1,2 +1,2 @@
 # MyApplicationPython
-That is a application with a serial of exercices in python language.
+That is a application with a sequence of exercices in python language.
